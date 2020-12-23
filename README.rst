@@ -1,6 +1,10 @@
 Overview
 ========
 
+.. note::
+    This is a temporary fork from to `frankwiles/django-admin-views <ehttps://github.com/frankwiles/django-admin-views>`_
+    in order to add the support for Django 3.x.
+
 While "the admin is not your app", it is often useful to be able to easily add
 a bit of functionality to the admin for internal staff or other internal users
 that are tech savvy enough to use the admin.
